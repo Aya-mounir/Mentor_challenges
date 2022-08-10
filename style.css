@@ -8,7 +8,7 @@ body {
 
 }
 *{
-    margin:5px 0 ;
+    margin-top:5px  ;
 }
 
 span,.h1{
@@ -25,6 +25,7 @@ h1 {
     font-family: Montserrat;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 span {
@@ -40,7 +41,7 @@ span {
     background-size: cover;
     background-repeat: no-repeat;
     width: 20%;
-    height: 50%;
+    height: 60%;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 
@@ -92,10 +93,9 @@ i {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    justify-content: space-around;
     flex-direction: column;
     width: 20%;
-    height: 50%;
+    height: 60%;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     box-sizing: border-box;
